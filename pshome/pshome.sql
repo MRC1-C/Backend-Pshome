@@ -1,0 +1,1 @@
+UPDATE user SET money = 20000 WHERE id = 3;
